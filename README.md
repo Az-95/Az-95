@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Az-95
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Network and Cyber Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Az-95/Az-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
